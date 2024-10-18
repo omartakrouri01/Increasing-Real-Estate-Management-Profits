@@ -1,4 +1,6 @@
-"Watershed" Properties is a residential property management company exclusively managed long-term leases. However, the real estate business has begun extending into a different market: short-term rentals. They would like to know whether Watershed should expand into this short-term rental market.
+"Watershed" Properties is a residential property management company exclusively managed long-term leases.
+However, the real estate business has begun extending into a different market: short-term rentals,
+They would like to know whether Watershed should expand into this short-term rental market.
 
 DO assume:
 
@@ -6,17 +8,21 @@ DO assume:
 
 · The occupancy rate of those 244 properties is 97.3% (or 36/37 months) when they are managed as long-term rentals.
 
-· The initial capital required to convert a long-term rental property to a short-term rental property is $30,000 (for furnishings, linens, etc.).  That capital expenditure will depreciate over 5 years.  
+· The initial capital required to convert a long-term rental property to a short-term rental property is $30,000
+  (for furnishings, linens, etc.).  That capital expenditure will depreciate over 5 years.  
 
-· $6000 in cash will be needed for each property each year after the first (conversion) year to cover items that wear out quickly. This amount is treated as an expense and is not depreciated.
+· $6000 in cash will be needed for each property each year after the first (conversion) year to cover items that wear out quickly.
+  This amount is treated as an expense and is not depreciated.
 
 · Utilities will be $300 a month for each property, or $3600 a year.
 
-· The hospitality fee (variable cost) for each visit  (for key service, cleaning, etc.) will be $100, regardless of the actual number of days of a visit. 
+· The hospitality fee (variable cost) for each visit  (for key service, cleaning, etc.) will be $100,
+  regardless of the actual number of days of a visit. 
 
 · The average short-term stay is 3 nights.
 
-· The two fees above are also combined and called the "transaction fee" in some spreadsheets and questions. The total default transaction fee is 30%. 
+· The two fees above are also combined and called the "transaction fee" in some spreadsheets and questions.
+  The total default transaction fee is 30%. 
 
 
 
